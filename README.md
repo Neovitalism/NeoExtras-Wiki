@@ -1,5 +1,5 @@
-![NeoExtras](https://github.com/Neovitalism/NeoExtras-Wiki/assets/70066544/9b3dc45e-a321-4ad3-8fa8-d5763ca6f161)
+<p align="center"><img src="images/wim-128.png" /></p>
 
-The public wiki for NeoExtras.
+<p align="center">The public wiki for NeoExtras.</p>
 
-Click the wiki tab or [here](https://github.com/Neovitalism/NeoExtras-Wiki/wiki) to begin viewing.
+<p align="center">Click the wiki tab or [here](https://github.com/Neovitalism/NeoExtras-Wiki/wiki) to begin viewing.</p>
