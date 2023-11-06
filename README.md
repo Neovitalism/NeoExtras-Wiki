@@ -1,4 +1,4 @@
-<p align="center"><img src="images/wim-128.png" /></p>
+<p align="center"><img src="NeoExtras.png" /></p>
 
 <p align="center">The public wiki for NeoExtras.</p>
 
